@@ -56,7 +56,7 @@ int main()
 		}
 	}	
 	
-	if (letter == 'b' || letter == 'B') // written by Mykyta
+	if (letter == 'b' || letter == 'B') // written by Mykyta (sorry about coppie and paste =( )
 	{
 		if (region == 1)
 		{
