@@ -79,6 +79,30 @@ int main()
 		}
 
 	}
+	if (letter == 'y' || letter == 'Y') // written by Jake
+	{
+		if (region == 1)
+		{
+			std::cout << "There are no Ys in the Americas" << std::endl; // default negative response
+		}
+		if (region == 2)
+		{
+			std::cout << "There are no Ys in Europe" << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "there are no Ys in Africa" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "Yemen , Arabian penninsula" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "middle east" << std::endl;
+		}
+
+	}
 	
 	
 	
